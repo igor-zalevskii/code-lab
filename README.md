@@ -1,5 +1,6 @@
 Data Stractures  
-- hash table  
+- hash table
+
 Алгоритмы  
 ERD  
 [t-test](https://github.com/igor-zalevskii/code-lab/tree/main/delivery)  
